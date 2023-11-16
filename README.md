@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm UZMD</h1>
-<h3 align="center">I am an Android developer from Uzbekistan</h3>
+<h1 align="center">Hi 👋, I'm Otriqboy</h1>
+<h3 align="center">I am an Android programmer from Uzbekistan, if the goal is clear, the incident does not matter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaminashu&label=Profile%20views&color=0e75b6&style=flat" alt="kaminashu" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_a_v_m_d_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_v_m_d_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ideal_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ideal_developer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
